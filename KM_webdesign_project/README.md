@@ -1,3 +1,3 @@
-# Midterm-Starter
+# Responsive Website Building
 
-See the instructions on Blackboard for the Midterm Project
+
